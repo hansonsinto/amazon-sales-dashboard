@@ -1,5 +1,5 @@
 # Amazon Sales Performance Dashboard
-End-to-end data analytics project — 100,000+ raw Amazon sales records cleaned and transformed into an interactive Excel dashboard with Pivot Charts and Slicers.
+ data analytics project with 100,000+ raw Amazon sales records cleaned and transformed into an interactive Excel dashboard with Pivot Charts and Slicers.
 
 ---
 
